@@ -5,7 +5,7 @@ Grok-optimized · Optimus-automated · Starship-scalable
 Earth abundance today · Mars readiness tomorrow
 
 **Goal**: Self-sustaining 20 ft shipping container homesteads  
-- ~$9–12k BOM prototype target  
+- ~$9–12k BOM prototype target
 - >95% water/nutrient recycle  
 - Perchlorate-hardened bio-consortia (Mars soil compatibility)  
 - Grok real-time monitoring + predictive what-ifs & coaching  
@@ -16,8 +16,9 @@ Earth abundance today · Mars readiness tomorrow
 
 ## Quickstart (once public)
 ```bash
-git clone [https://github.com/SeanSestinaEcoForge/EcoForge.git](https://github.com/SeanSestinaEcoForge/EcoForge.git)
+git clone
+(https://github.com/SeanSestinaEcoForge/EcoForge.git)
 cd EcoForge
 pip install -r requirements.txt
-pip install jupyterlab          # if not already covered in requirements.txt
-jupyter lab                     # explore simulations/
+pip install jupyterlab          # install if not in requirements.txt
+jupyter lab                     # open Jupyter to explore simulations/
