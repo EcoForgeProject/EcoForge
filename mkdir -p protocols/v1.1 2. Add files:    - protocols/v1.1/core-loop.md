@@ -30,4 +30,15 @@ def bsf_yield(wet_solids_kg_day, conversion_rate=0.20, dry_matter=0.30, protein_
     }
 
 # Example daily
-print(bsf_yield(10))  # Adjust params from trials
+print(bsf_yield(10))  # Adjust params from trials### 3. Other Modules (e.g., biochar.md)
+If separate, add `protocols/v1.1/biochar.md`:
+
+```markdown
+# Biochar Production Protocol
+**Retort & Charging for Carbon Sequestration + Soil Amendment**
+
+- Retort: Kon-Tiki or drum kiln, 400-600°C pyrolysis.
+- Feedstock: Digestate solids, plant trimmings, BSF frass.
+- Yield: 25-35% biochar by weight.
+- Charging: Soak in compost tea + urine (nutrient loading).
+- Use: Soil amendment, perchlorate sorption, pH buffer in Mars sims.
