@@ -6,14 +6,14 @@ Processes fish/plant solids waste into high-value protein (larvae harvest) + fra
 
 ## Daily Workflow
 1. Solids input: 5-15 kg/day wet waste from core loop (fish feces, plant trimmings).
-2. BSF rearing: Stacked bins/trays, 25-35°C, 60-70% humidity.
-3. Larvae growth: 14-21 days to prepupae.
-4. Harvest: Self-harvest ramps → dry/freeze larvae (25-40% protein, high omega-3).
-5. Frass output: Larvae manure → anaerobic digester for extra biogas or direct compost tea.
-6. Yield calcs:
+
+2. Larvae growth: 14-21 days to prepupae.
+3. Harvest: Self-harvest ramps → dry/freeze larvae (25-40% protein, high omega-3).
+4. Frass output: Larvae manure → anaerobic digester for extra biogas or direct compost tea.
+5. Yield calcs:
    - Conversion: 15-25% wet waste → dry larvae biomass.
    - Protein: 40-50% of dry larvae.
-   - Biogas bonus: Frass VS higher than raw solids.
+   - Biogas bonus: Frass VS higher than raw solids.## Core Loop Baseline Integration      Fish (Tilapia RAS) → Effluent to Plants (NFT/DWC) → Solids to BSF Loop / Digester → Biogas + Digestate → Back to System      - Tilapia density: 40-60 kg/m³      - Fouling mitigation: Air scouring + citric flush cycles      - PC drippers: 1-2 mm filtered, auto-backflush      - Biogas yield: 0.25-0.35 m³ CH₄/kg VS      
 
 ## Starter .py Snippet (bsfl_yield_calc.py – add to folder or simulations/)
 ```python
