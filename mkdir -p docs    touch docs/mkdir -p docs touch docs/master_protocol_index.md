@@ -1,6 +1,10 @@
 # EcoForge Master Protocol Index
 
 **Version:** 1.0 – Earth Abundance Prototype (Mars-Hardened by Design)  
+**Date:** February 2026
+# EcoForge Master Protocol Index
+
+**Version:** 1.0 – Earth Abundance Prototype (Mars-Hardened by Design)  
 **Date:** February 2026  
 
 **North Star:** Open-source, Grok-powered closed-loop homesteads (AI brain + Optimus dexterity + Starship-scale logistics) for zero-waste food/energy/water on Earth today → perchlorate/radiation/dust/low-G ready for Mars bases tomorrow.  
