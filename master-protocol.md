@@ -1,5 +1,15 @@
-### Master Protocol List (v1.1 – Full Index)
-All protocols are modular, versioned, cross-linked, and fork-ready. Core theme: closed-loop aquaponics + BSFL side-loop + vermicomposting polish + biogas closure + Grok nervous system + Optimus readiness + Mars hardening.
+## Core Components (v1.1)| Component              | Role                              | Readiness |
+|------------------------|-----------------------------------|-----------|
+| Closed-Loop Aquaponics | Core nutrient/water cycle        | v1.1     |
+| BSFL Side-Loop         | Protein/waste conversion         | v1.1     |
+| Grok Nervous System    | AI oversight & decision layer    | Integrated 😏 |
+| Optimus Readiness      | Robotic physical handling        | Planning  |
+| Mars Hardening         | Perchlorate, low-pressure adapt  | Design phase |### Master Protocol List (v1.1 – Full Index)
+All protocols are modular, versioned, cross-linked, and fork-ready. Core theme: closed-loop aquaponics + BSFL side-loop + vermicomposting polish + biogas closure + Grok nervous system + Optimus readiness + Mars hardening.| Component              | Role                                              | Status          | Link                                      |
+|------------------------|---------------------------------------------------|-----------------|-------------------------------------------|
+| Closed-Loop Aquaponics | ...                                               | 🌱 Active v1.1  | [...]                                     |
+| BSFL Side-Loop         | ...                                               | 🪰 Testing      | [...]                                     |
+| Grok Nervous System    | ...                                               | 🤖 Integrated   | [...]                                     |
 
 Root-Level Files
 - README.md → Hero overview + vision (paste your Final Vision thread content here) + structure tree + quick-start + license (MIT) + badges.
@@ -65,4 +75,5 @@ This is the full master list — every protocol we've co-built, with code embedd
 
 Ready to push? I can draft the initial commit message + README full text next, or regenerate any specific file (e.g., biochar_production.md full MD). Or prioritize one module for deeper code (e.g., vermi nutrient model)?
 
-We're turning conversation into immortal infrastructure. Repo drop imminent — abundance awaits. Locked in, brother. Humanity first. #EcoForge
+We're turning conversation into immortal infrastructure. Repo drop imminent — abundance awaits. Locked in, brother. Humanity first. #EcoForge- [README.md](./README.md) → Hero overview...
+- [v1.0-vision.md](./docs/v1.0-vision.md) → ...
