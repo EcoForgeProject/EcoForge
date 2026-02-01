@@ -1,29 +1,33 @@
 # EcoForge
-Open-source, Grok-powered closed-loop homesteads: Earth abundance today, Mars bases tomorrow. $9–12k container prototype, 95%+ recycle, perchlorate-hardened bio-consortia, Optimus/Starship fit.
 
-Grok as nervous system → real-time monitoring, predictive what-ifs, adaptive coaching.
+**Open-source, Grok-powered closed-loop homesteads**  
+Earth abundance today, Mars bases tomorrow.  
+$9–12k 20ft container prototype • 95%+ recycle • perchlorate-hardened bio-consortia • Optimus mounts • Starship-fit scaling.
+
+Grok as nervous system → real-time monitoring, predictive what-ifs, adaptive coaching.  
 Fork → simulate → build → iterate → swarm.
 
-## Structure Overview
-- **docs/**: Protocols, BOM, vision, functions list
-- **simulations/**: Jupyter/Python models & notebooks (nutrient cycling, fouling, biogas, stressors)
-- **prompts/**: Grok prompt chains for ops/coaching
-- **cad/**: Designs & sketches
-- **images/**: Diagrams & renders
-- **backup/**: Full snapshot zip
+## Key Docs Live
 
-Key docs live:
-- [Complete v1.1 Master Protocol Index](docs/Complete-v1.1-Master-Protocol-Index.md) – full index & code seeds
-- [Biochar Production](docs/biochar_production.md) – retort & charging protocol
-- [Master Thread Timeline](docs/master-thread.md) – how we built this
-- [Scaling Pathways](docs/scaling-pathways.md) – horizontal to swarm
+- [Complete v1.1 Master Protocol Index](docs/master_protocol_index.md) – full index & code seeds  
+- [Biochar Production](docs/biochar.md) – retort & charging protocol  
+- [Master Thread Timeline](docs/master_thread_timeline.md) – how we built this  
+- [Scaling Pathways](docs/scaling.md) – horizontal to swarm  
+- **backup/**: Full snapshot ZIP (timestamped)
 
 ## Quickstart (once public)
 
-1. Clone the repo  
+1. **Clone the repo**  
    ```bash
    git clone [https://github.com/SeanSestina/EcoForge.git](https://github.com/SeanSestina/EcoForge.git)
    cd EcoForge
+
+Grok as nervous system → real-time monitoring, predictive what-ifs, adaptive coaching.  
+Fork → simulate → build → iterate → swarm.
+
+## Key Docs Live
+
+- [Complete v1.1 Master 
 
 2. Install dependencies  
    pip install -r requirements.txt
