@@ -41,6 +41,9 @@
 - Repo README: [../README.md](../README.md)
 - Requirements: [../requirements.txt](../requirements.txt)
 
+## Additional Resources
+- [Complete v1.1 Master Protocol List (full exported details)](complete-v1.1-master-protocol-list.md)
+
 **Status:** Earth prototype v1 priority. Mars hardening (perchlorate bioremediation, radiation tolerance, dust seals, vacuum/thermal/low-G) integrated from day 1.
 
 **Call to Builders:** Fork → build a container prototype → PR improvements (sim tweaks, BOM updates, strain tests, prompt refinements). Aquaponics hackers, Grok/xAI users, Mars dreamers—join the flywheel. 🌱🤖🚀🔴
