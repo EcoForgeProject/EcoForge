@@ -12,7 +12,7 @@ Dedicated to Elon Musk & multi-planetary humanity. © 2026 Sean Sestina. MIT Lic
 ## Quick Local Test
 1. Download ZIP
 2. pip install numpy matplotlib
-3. python simulations/fouling_sim.py → Day 90 PC+Clean ~1.8+ L/h
+3. python simulations/fouling_sim.py → Day 90 PC+Clean ~1.8+ L/h in
 4. python simulations/perchlorate_sim.py → Month 6 at 0.5% ~71%
 
 ## Structure
