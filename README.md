@@ -20,7 +20,9 @@ Fork → simulate → build → iterate → swarm.
 1. **Clone the repo**  
    Open your terminal (Command Prompt/PowerShell on Windows, Terminal on Mac/Linux) and run these lines one by one:  
    ```bash
-   git clone [https://github.com/SeanSestina/EcoForge.git](https://github.com/SeanSestina/EcoForge.git)
+   git clonepip install -r requirements.txtpip install jupyterlab
+jupyter lab simulations/closed_loop_sim.ipynbpython simulations/bsfl_yield_sim.py
+://github.com/SeanSestina/EcoForge.git](https://github.com/SeanSestina/EcoForge.git)
    cd EcoForge
     2. **Install dependencies**      (Run inside the EcoForge folder after `cd EcoForge`):     bash
    pip install -r requirements.txt
