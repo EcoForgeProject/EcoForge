@@ -1,10 +1,6 @@
 # EcoForge Master Protocol Index
 
 **Version:** 1.0 – Earth Abundance Prototype (Mars-Hardened by Design)  
-**Date:** February 2026
-# EcoForge Master Protocol Index
-
-**Version:** 1.0 – Earth Abundance Prototype (Mars-Hardened by Design)  
 **Date:** February 2026  
 
 **North Star:** Open-source, Grok-powered closed-loop homesteads (AI brain + Optimus dexterity + Starship-scale logistics) for zero-waste food/energy/water on Earth today → perchlorate/radiation/dust/low-G ready for Mars bases tomorrow.  
@@ -38,13 +34,13 @@
 
 ## Quick Resources
 
-- Full BOM Spreadsheet: [../assets/bom.xlsx](../assets/bom.xlsx) (upload soon!)
-- CAD Files: [../cad/](../cad/) (create folder & add files)
+- Full BOM Spreadsheet: [../assets/bom.xlsx](../assets/bom.xlsx) (upload your breakdown soon!)
+- CAD Files: [../cad/](../cad/) (add STEP/FCStd/FreeCAD files)
 - Simulations Code: [../simulations/](../simulations/)
-- Grok Prompts Folder: [../prompts/](../prompts/)
-- Repo Landing Page: [../README.md](../README.md)
-- Python Dependencies: [../requirements.txt](../requirements.txt)
+- Grok Prompts: [../prompts/](../prompts/)
+- Repo README: [../README.md](../README.md)
+- Requirements: [../requirements.txt](../requirements.txt)
 
-**Status:** Earth prototype v1 priority. Mars hardening (perchlorate bioremediation, rad tolerance, dust seals, vacuum/thermal/low-G) integrated from day 1.  
+**Status:** Earth prototype v1 priority. Mars hardening (perchlorate bioremediation, radiation tolerance, dust seals, vacuum/thermal/low-G) integrated from day 1.
 
-**Call to Builders:** Fork the repo → build a container prototype → PR your improvements (sim tweaks, BOM updates, strain tests, prompt refinements, etc.). Aquaponics hackers, xAI/Grok users, Mars dreamers—join the flywheel. 🌱🤖🚀🔴
+**Call to Builders:** Fork → build a container prototype → PR improvements (sim tweaks, BOM updates, strain tests, prompt refinements). Aquaponics hackers, Grok/xAI users, Mars dreamers—join the flywheel. 🌱🤖🚀🔴
