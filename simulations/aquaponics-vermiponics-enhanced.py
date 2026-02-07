@@ -1,3 +1,16 @@
+"""
+aquaponics-vermiponics-enhanced.py - EcoForge
+Enhanced aquaponics model with:
+- Temperature dependence (Q10 scaling)
+- Dissolved oxygen dynamics & crash thresholds
+- Vermicomposting: organic solids decay → ammonia release
+
+Run:
+    pip install -r ../requirements.txt
+    python aquaponics-vermiponics-enhanced.py
+
+Tune params (e.g. T, k_worm_base, k_reaer) to match your real system.
+"""
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
