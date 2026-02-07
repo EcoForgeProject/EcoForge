@@ -1,35 +1,40 @@
-EcoForge: Open-source closed-loop AI homesteads (Grok + Optimus + Starship). Earth abundance today, Mars readiness tomorrow. 🌱🚀
+## EcoForge – Open-Source Closed-Loop AI Homesteads
 
-Join the G Family → commit to repo / drop #GFamilyEcoForge / add 'G Family Builder ∞' to your bio.
+**Earth abundance today. Mars readiness tomorrow.**
 
-Rules:
-- Rule #1: My family first
-- Rule #2: Always share improvements back — the flywheel lifts everyone
+EcoForge is building modular, AI-optimized closed-loop systems for sustainable food production — starting with aquaponics + vermiponics, and scaling toward fully autonomous habitats on Earth and eventually Mars.
 
-Repo: https://github.com/SeanSestinaEcoForge/EcoForge
-## Simulations
+- Grok-optimized models & decision protocols  
+- Optimus-compatible automation hooks (future)  
+- Starship-scale transport & deployment thinking  
 
-Models for closed-loop homestead dynamics.
+MIT Licensed · Community-first · Always improving
 
-### Aquaponics + Vermiponics
-- **Enhanced model** (temperature, DO, vermicomposting solids):  
-  [simulations/aquaponics-vermiponics-enhanced.py](simulations/aquaponics-vermiponics-enhanced.py)  
-  Features: Q₁₀ temp scaling, dissolved oxygen with crash thresholds, worm-mediated solids breakdown.
+## Current Focus: Aquaponics + Vermiponics Simulation
 
-- **Basic nutrient cycle** (earlier version):  
-  [sim-aquaponics-nutrient-cycle.py](simulations/sim-aquaponics-nutrient-cycle.py)
+We're iterating on high-fidelity simulations that model:
+- Fish growth & feed conversion
+- Plant nutrient uptake (nitrate preferred)
+- Nitrification (ammonia → nitrite → nitrate)
+- Vermicomposting (solids → ammonia release)
+- Dissolved oxygen dynamics & crashes
+- Alkalinity consumption & approximate pH effects
 
-Run example:
+These models help test parameter ranges, stress scenarios, and long-term stability before building physical prototypes.
+
+### Available Simulations
+
+All simulations live in the `simulations/` folder.
+
+| File | Description | Features | How to Run |
+|------|-------------|----------|------------|
+| `sim-aquaponics-nutrient-cycle.py` | Basic nutrient cycling model | Ammonia, nitrite, nitrate, simple uptake | `python simulations/sim-aquaponics-nutrient-cycle.py` |
+| `aquaponics-vermiponics-enhanced-ph-alk.py` | Enhanced version with vermiponics, DO, temp scaling, pH & alkalinity | Temperature Q10, DO limitation, pH-dependent nitrification, alkalinity decay | `python simulations/aquaponics-vermiponics-enhanced-ph-alk.py` |
+| `aquaponics-vermiponics-enhanced-ph-alk.ipynb` | **Interactive Jupyter notebook** | Sliders for temperature & initial alkalinity, real-time plots of biomass, nutrients, DO, pH, alkalinity | `jupyter notebook simulations/aquaponics-vermiponics-enhanced-ph-alk.ipynb` |
+
+**Dependencies** (install once):
 ```bash
 pip install -r requirements.txt
-python simulations/aquaponics-vermiponics-enhanced.py
-
-- **Aquaponics + Vermiponics**  
-  File: [simulations/aquaponics-vermiponics-enhanced.py](simulations/aquaponics-vermiponics-enhanced.py)  
-  Features: temperature scaling (Q₁₀), dissolved oxygen with crash thresholds, organic solids + worm breakdown  
-  Run:  
-  ```bash
-  pip install -r requirements.txt
-  python simulations/aquaponics-vermiponics-enhanced.py
-
-Who's building with me? ∞
+# or manually:
+pip install numpy scipy matplotlib ipywidgets jupytercd EcoForge
+jupyter notebook simulations/aquaponics-vermiponics-enhanced-ph-alk.ipynb
