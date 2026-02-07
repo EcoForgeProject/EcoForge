@@ -38,3 +38,41 @@ pip install -r requirements.txt
 # or manually:
 pip install numpy scipy matplotlib ipywidgets jupytercd EcoForge
 jupyter notebook simulations/aquaponics-vermiponics-enhanced-ph-alk.ipynb
+→ Open sliders → watch how temperature and starting alkalinity affect pH crash risk, fish growth, and system stability.Project Goals & RoadmapShort-term  Refine aquaponics/vermiponics models (CO₂, multi-tank, fouling)  
+Document practical protocols (pH buffering, worm management, sensor calibration)  
+Add visualization utilities & parameter sweeps
+
+Medium-term  Integrate real sensor data ingestion  
+Add Mars-specific adaptations (low gravity settling, high-CO₂ atmosphere, radiation effects)  
+Build decision/AI layer (Grok/Potion integration)
+
+Long-term  Full closed-loop homestead blueprint  
+Optimus-compatible control code  
+Starship payload-optimized designs
+
+ContributingWe welcome improvements, bug fixes, new features, and real-world data!Fork & branch (git checkout -b feature/better-ph-buffering)
+Commit clearly (git commit -m "Add dynamic KHCO3 dosing to alkalinity recovery")
+Open a PR with description of changes
+
+G Family Rules  Family first  
+Always share improvements  
+Build for abundance
+
+LicenseMIT License (LICENSE)Questions, ideas, or real-system data? Open an issue or reach out.
+
+
+### Quick Tips for Implementation
+- **Replace or merge**: If your current README already has some of this (vision, license), just insert the **Current Focus**, **Available Simulations** table, and **Quick start** section near the top.
+- **Table formatting**: The markdown table above renders nicely on GitHub.
+- **File links**: GitHub auto-links paths like `simulations/aquaponics-vermiponics-enhanced-ph-alk.ipynb` — users can click them directly.
+- **After updating**: Commit with a message like  
+  `Update README: add simulation overview, interactive notebook instructions, roadmap`
+
+Let me know if you'd like:
+- A shorter version
+- More emphasis on Mars aspects
+- Addition of badges (stars, license, python version)
+- A separate `CONTRIBUTING.md` draft
+- Protocol markdown files to link from here
+
+Ready when you are! 🚀
