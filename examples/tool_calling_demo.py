@@ -8,8 +8,7 @@ def get_chp_metrics(power: float, fuel: str = "propane") -> dict:
     from src.tools.energy import chp_efficiency_calc
     return chp_efficiency_calc(power, fuel)
 
-chat = create_chat()
-chat.register_tools([get_chp_metrics])
+chat.append({"role": "user", "content": "What are realistic CHP metrics for a 8kW propane system?"})chat.register_tools([get_chp_metrics])
 
 chat.append(user("What are realistic CHP metrics for a 8 kW propane system?"))
 response = chat.sample()
