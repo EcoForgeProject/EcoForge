@@ -12,8 +12,9 @@ chat = create_chat()
 
 chat.register_tools([get_chp_metrics])
 
-# Fixed: use dict format instead of undefined 'user'
+# Fixed: dict instead of undefined 'user'
 chat.append({"role": "user", "content": "What are realistic CHP metrics for a 8kW propane system?"})
+
 response = chat.sample()
 print("Response:", response.content)
 
