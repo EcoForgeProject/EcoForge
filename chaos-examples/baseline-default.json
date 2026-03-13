@@ -1,0 +1,10 @@
+{
+    "simulation": "baseline-default-T22-Alk150",
+    "duration_days": 120,
+    "final_DO_mg_L": 1.0,
+    "final_Alk_mg_L": 110.0,
+    "approx_final_pH": 6.8,
+    "DO_crash_day": "< 5",
+    "system_status": "hypoxic stress - DO crash early, Alk slow decline",
+    "notes": "Default params. DO drops below critical 4 mg/L immediately. Likely fish mortality and ammonia buildup. Needs reaeration boost, lower feed, or vermi/DO fixes for stability. Pellet v0.1 feed rate too aggressive?"
+}
