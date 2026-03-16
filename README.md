@@ -1,49 +1,11 @@
 # EcoForge 🌱⚒️🚀🪐
 
-**Open-source AI-optimized closed-loop homestead nodes** for Earth abundance & Mars readiness. Grok + Optimus + Starship-hardened.
-
-![EcoForge – Earth Abundance to Mars Readiness](images/ecoforge-earth-mars-hero.png)
-
-## System Overview
-![Isometric Technical Diagram](images/ecoforge-isometric-diagram.png)
-
-![Container Node 3D Cutaway](images/ecoforge-container-cutaway.png)
-
-![Closed-Loop Process Flow](images/ecoforge-process-flow.png)
-
-## BOM & Build Guide
-![Exploded BOM View](images/ecoforge-bom-exploded.png)
-
-## Mars Adaptation
-![Mars Variant](images/ecoforge-mars-variant.png)
-
-## Scaling Roadmap
-![Scaling Roadmap](images/ecoforge-scaling-roadmap.png)
-**Open-source AI-optimized closed-loop homestead nodes** for Earth abundance & Mars readiness. Grok + Optimus + Starship-hardened.
-
-![EcoForge – Earth Abundance to Mars Readiness](images/ecoforge-earth-mars-hero.png)
-
-## System Overview
-![Isometric Technical Diagram](images/ecoforge-isometric-diagram.png)
-
-![Container Node 3D Cutaway](images/ecoforge-container-cutaway.png)
-
-![Closed-Loop Process Flow](images/ecoforge-process-flow.png)
-
-## BOM & Build Guide
-![Exploded BOM View](images/ecoforge-bom-exploded.png)
-
-## Mars Adaptation
-![Mars Variant](images/ecoforge-mars-variant.png)
-
-## Scaling Roadmap
-![Scaling Roadmap](images/ecoforge-scaling-roadmap.png
 **Open-source AI-optimized closed-loop homestead nodes** (Grok + Optimus + Starship-hardened) for Earth abundance, regenerative recovery, and Mars readiness. Humanity first.
 
 ![EcoForge – Earth Abundance to Mars Readiness](images/ecoforge-earth-mars-hero.png)
 
 ## Quick Start
-- **Live API**: `/simulate` endpoint (vermiponics + RO) → [Swagger](link)
+- **Live API**: /simulate endpoint (vermiponics + RO) → [Swagger link]
 - **Full Blueprint**: [Master Report v2](docs/EcoForge-Master-Blueprint-v2.md)
 - **First Build**: ~$1–1.15k pilot
 
@@ -68,4 +30,4 @@
 
 ## Get Involved
 Fork • Build • Fund • Call the API  
-**Repo status**: Supernova ready. Let’s ship nodes. ❤️⚒️∞🌍→🪐
+Repo status: Visuals live — supernova incoming. ❤️⚒️∞🌍→🪐
