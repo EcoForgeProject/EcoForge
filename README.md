@@ -6,6 +6,7 @@
 [EcoForge Complete Vision & Consistency Guide v3](docs/EcoForge-Complete-Vision-Consistency-v3.md)  
 → All tiers, 2500 sq ft integrated home layout, engineering hub with CNC + 3D printers, full system integration, BOMs, phasing, and replication rules.
 ![EcoForge – Earth Abundance to Mars Readiness](images/ecoforge-earth-mars-hero.png)
+- [2500 sq ft Integrated Home & Full Site Layout](2500sqft-Home-Floor-Plan.md) – livable home + ecosystem overview with engineering hub
 
 ## Quick Start
 - **Live API**: /simulate endpoint (vermiponics + RO) → [Swagger link]
