@@ -5,20 +5,17 @@ Vermiponics + biogas spine + RO + Grok reasoning/voice agents (Ara default) + Op
 
 ## Visual Overview
 
-![Vermiponics Core Setup](https://raw.githubusercontent.com/SeanSestinaEcoForge/SeanSestinaEcoForge/main/images/vermiponics-vermi-beds.jpg)  
-**EcoForge Vermiponics Core** – Worm beds + gravel filter + nutrient flow to plants (96.5% recovery target)
+![Container 1 Interior - Stacked Grow Beds](https://raw.githubusercontent.com/SeanSestinaEcoForge/SeanSestinaEcoForge/main/images/container-interior.jpg)  
+*Insulated shipping container setup with vermiponics beds and lighting for year-round abundance*
 
-![Closed-Loop System Diagram](https://raw.githubusercontent.com/SeanSestinaEcoForge/SeanSestinaEcoForge/main/images/closed-loop-vermiponics-diagram.png)  
-**Full Closed-Loop Flow** – Vermiponics → Biogas → RO → Energy Balance (pH, NH3, energy all monitored)
+![Closed-Loop System Diagram](https://raw.githubusercontent.com/SeanSestinaEcoForge/SeanSestinaEcoForge/main/images/closed-loop-diagram.jpg)  
+*Nutrient & energy flow: Vermiponics → Biogas → RO → Powerwall hybrid (pH, energy, recovery all tied in)*
 
-![Shipping Container Homestead](https://raw.githubusercontent.com/SeanSestinaEcoForge/SeanSestinaEcoForge/main/images/container-greenhouse-setup.jpg)  
-**Container 1 Vision** – Modular, insulated shipping container node for Cambridge site
+![Reverse Osmosis Unit](https://raw.githubusercontent.com/SeanSestinaEcoForge/SeanSestinaEcoForge/main/images/ro-unit.jpg)  
+*Low-energy RO achieving <6 ppm permeate in the closed loop*
 
-![RO Unit Integration](https://raw.githubusercontent.com/SeanSestinaEcoForge/SeanSestinaEcoForge/main/images/ro-filtration-aquaponics.jpg)  
-**Reverse Osmosis in Action** – Low-energy water purification for permeate quality
-
-![Biogas + Vermi Integration](https://raw.githubusercontent.com/SeanSestinaEcoForge/SeanSestinaEcoForge/main/images/biogas-vermicomposting-setup.jpg)  
-**Biogas Spine** – Waste digestion powering the loop (solar/Powerwall hybrid)
+![Biogas Digester Integration](https://raw.githubusercontent.com/SeanSestinaEcoForge/SeanSestinaEcoForge/main/images/biogas-digester.jpg)  
+*Biogas spine: Waste-to-methane powering storage & ops*
 
 **Current Status (March 2026)**  
 - Blueprint v3 "Supernova" locked: 95–96.5% resource recovery, NH₃ <6 ppm, RO 0.55 kWh/m³, 18.8 LMH flux.  
