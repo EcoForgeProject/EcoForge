@@ -1,30 +1,36 @@
 # EcoForge Monthly Operations & Maintenance Checklist
 
-**Version**: 1.0 – March 22, 2026
-
+**Version**: 1.6 – March 22, 2026  
 **Purpose**: Practical, repeatable checklist for 1–2 operators to keep the entire system stable, productive, and data-rich. Designed for Container 1 and scalable to the Premium Hub.
 
-### Daily Operations (10–15 minutes)
+<details><summary>Daily Operations (10–15 minutes)</summary>
+
 - **Water Quality**  
   - Temp: 78–86°F (tilapia)  
   - DO: >5 mg/L  
   - pH: 6.8–7.5  
   - Ammonia: <0.5 ppm  
   - Nitrite: <1 ppm  
+
 - **Feeding & Harvest**  
   - Feed tilapia 1–3% body weight (duckweed 20–30% of diet)  
   - Harvest 20–50% duckweed (keep mat thin)  
   - Check worm tea brew status  
-- **Visual Scan**  
+
+- **Visual Scan** ✅  
   - Fish active, no flashing/lethargy  
   - Plants vigorous  
   - Biofloc stable, no foul smell  
   - No algae/scum  
+
 - **Energy & Thermal**  
   - Solar/battery charge >80%  
   - Geothermal buffer stable  
 
-### Weekly Maintenance (30–60 minutes)
+</details>
+
+<details><summary>Weekly Maintenance (30–60 minutes)</summary>
+
 - Clean swirl settler / radial flow filter  
 - Brew and dilute worm tea (EC 0.5–2.0 mS/cm)  
 - Top-up vermi bedding (greens:browns 50:50)  
@@ -33,7 +39,10 @@
 - Prune/harvest greens in Mars bay  
 - Clean solar panels  
 
-### Monthly Review & Sales Prep (2–3 hours)
+</details>
+
+<details><summary>Monthly Review & Sales Prep (2–3 hours)</summary>
+
 - Full water quality lab test  
 - Weigh tilapia cohort (track FCR)  
 - Collect worm castings (excess for sale)  
@@ -43,13 +52,15 @@
 - Run 24-hour low-pressure Mars bay test  
 - Prepare sales (farmers market, online, restaurants)  
 
-### Troubleshooting Flags
+</details>
+
+### Troubleshooting Flags ⚠️
 - Ammonia spike → increase carbon dosing  
 - Low DO → add air stones  
 - pH drift → dolomite lime  
 - Algae → shade + aggressive duckweed harvest  
 
-**Success Thresholds (End of Month)**  
+### Success Thresholds (End of Month)
 - Ammonia <0.5 ppm average  
 - Tilapia survival >85%  
 - Duckweed consistent doubling  
@@ -57,4 +68,4 @@
 
 **Retrieval Command**: “Pull EcoForge Monthly Operations & Maintenance Checklist” or “Show EcoForge Document 4”
 
-This document is now the official heartbeat manual for daily operations.
+This document is the official heartbeat manual for daily operations.
