@@ -39,6 +39,7 @@ Full details: [docs/EcoForge-Complete-Vision-Consistency-v3.md]
 - RO: 4.5–5.8 ppm permeate, 0.55 kWh/m³  
 - Pilot Scale: 10-person node → 400+ lbs/month surplus food, 30–90 min daily ops  
 Live dashboard/sensor feeds: In dev (ESP32 → Grok → Ara alerts with full pH/energy closed-loop monitoring)
+[ForgeHub-UI-Concept.md](/docs/ForgeHub-UI-Concept.md)
 
 **Quick Start**  
 1. Clone: `git clone https://github.com/SeanSestinaEcoForge/SeanSestinaEcoForge`  
