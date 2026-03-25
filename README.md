@@ -34,7 +34,7 @@ Read the full LICENSE (MIT) and CONTRIBUTING.md for additional terms.
 
 ## Visual Overview
 
-![EcoForge Closed-Loop Process Flow](images/ecoforge-process-flow.png)
+![EcoForge Closed-Loop Process Flow](images/ecoforge-closed-loop-flow.png)
 
 *Closed-loop nutrient, water & energy flow: Vermiponics → Biogas (anaerobic digestion) → Greywater Recycling → RO (permeate reuse) → Powerwall hybrid solar storage. All loops monitored live (pH, NH₃ <6 ppm, TDS, flux, recovery rate, energy surplus) via Grok/ESP32.*
 
