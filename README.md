@@ -4,7 +4,6 @@
 **Grok-optimized regenerative systems for Earth abundance & Mars readiness.**  
 Vermiponics + biogas spine + RO + Grok reasoning/voice agents (**Ara** default) + Optimus hooks. Family-scale nodes scaling to multi-node networks.
 
-## Visual Overview
 ## ⚠️ IMPORTANT SAFETY & LIABILITY DISCLAIMER
 
 **EcoForge designs, simulations, blueprints, code, BOMs, and all materials are provided "AS IS" and "WITH ALL FAULTS" for experimental, educational, and open-source research purposes only.**
@@ -33,21 +32,27 @@ Prototype and build **at your own risk only**. Not for commercial replication wi
 
 Read the full LICENSE (MIT) and CONTRIBUTING.md for additional terms.
 
-
-![EcoForge Container Cutaway](images/ecoforge-container-cutaway.png)  
-*Insulated shipping container prototype with vermiponics beds, biogas integration, RO unit, and energy storage layout*
+## Visual Overview
 
 ![EcoForge Closed-Loop Process Flow](images/ecoforge-process-flow.png)
+
 *Closed-loop nutrient, water & energy flow: Vermiponics → Biogas (anaerobic digestion) → Greywater Recycling → RO (permeate reuse) → Powerwall hybrid solar storage. All loops monitored live (pH, NH₃ <6 ppm, TDS, flux, recovery rate, energy surplus) via Grok/ESP32.*
 
-![EcoForge Isometric Diagram](images/ecoforge-isometric-diagram.png)  
+![Isometric Overview](images/ecoforge-isometric-diagram.png)
+
 *Isometric overview of the full homestead node system*
 
-![EcoForge BOM Exploded View](images/ecoforge-bom-exploded.png)  
+![Exploded BOM](images/ecoforge-bom-exploded.png)
+
 *Exploded BOM: Vermi crates, RO membranes, biogas digester, sensors, solar/Powerwall*
 
-![EcoForge Scaling Roadmap](images/ecoforge-scaling-roadmap.png)  
-*Roadmap for multi-node expansion and community rollout*
+![Container Cutaway](images/ecoforge-container-cutaway.png)
+
+*Insulated shipping container prototype with vermiponics beds, biogas integration, RO unit, and energy storage layout*
+
+![Earth to Mars Roadmap](images/ecoforge-scaling-roadmap.png)
+
+*Roadmap for multi-node expansion, community rollout, and Mars analog scaling*
 
 **Current Status (March 2026)**  
 - Blueprint v3 "Supernova" locked: 95–96.5% resource recovery, NH₃ <6 ppm, RO 0.55 kWh/m³, 18.8 LMH flux.  
