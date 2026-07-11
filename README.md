@@ -47,3 +47,17 @@ git clone [https://github.com/SeanSestinaEcoForge/SeanSestinaEcoForge.git](https
 cd SeanSestinaEcoForge
 pip install -r requirements.txt
 python simulations/sim-aquaponics-nutrient-cycle.py
+Live API — /simulate endpoint available (currently throttled for development).Repository Structure
+•  docs/ — Philosophy, roadmaps, protocols
+•  simulations/ — Python models & Jupyter notebooks
+•  designs/ — Blueprints and BOMs
+•  progress/ — Regular updates
+•  images/ — Visual documentation
+•  api/ — FastAPI integration layer⚠️ IMPORTANT SAFETY & LIABILITY DISCLAIMER
+EcoForge designs, simulations, blueprints, code, BOMs, and all materials are provided “AS IS” and “WITH ALL FAULTS” for experimental, educational, and open-source research purposes only.
+Building or operating any EcoForge system involves serious risks (fire/explosion, electrical, chemical, biological, structural, etc.). You assume 100% of the risk. No warranties are made. Consult licensed professionals, follow all codes, and start small. See full DISCLAIMER.md for details.Get Involved
+•  Fork the repo and prototype your own node
+•  Submit PRs (code, docs, simulations, feedback)
+•  Open issues or reach out @SeanSestina
+Current Priorities: Sensor integration examples, Grok tool calling, BOM sourcing, Container 1 build sequencing.License: MIT
+Let’s forge abundance together. 🌱⚡🚀
