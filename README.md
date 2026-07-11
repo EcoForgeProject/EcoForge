@@ -74,4 +74,14 @@ Current priorities: Sensor integration examples (pH + full energy management), G
 
 License: MIT  
 Let's forge abundance together! 🌱⚡️🚀
-See full disclaimer above. All builds are experimental.
+See full disclaimer above. All builds are experimental.Repository Structure
+•  docs/ — Philosophy, roadmaps, protocols
+•  simulations/ — Python models & Jupyter notebooks
+•  designs/ — Blueprints and BOMs
+•  progress/ — Regular updates
+•  images/ — Visual documentation
+•  api/ — FastAPI integration layer⚠️ IMPORTANT SAFETY & LIABILITY DISCLAIMER
+EcoForge designs, simulations, blueprints, code, BOMs, and all materials are provided “AS IS” and “WITH ALL FAULTS” for experimental, educational, and open-source research purposes only.### What to do after pasting:
+1. Save / Commit with message: `docs: polish README for professional presentation`
+2. Preview it on GitHub to make sure it renders nicely.
+
