@@ -1,5 +1,15 @@
 # EcoForge – Open-Source Closed-Loop AI Homesteads
+## Current Status (July 2026)
 
+**Phase 1 complete** — Blueprint v3 "Supernova" locked with 95–96.5% resource recovery.
+
+**Next Focus: Phase 2** — Container 1 physical prototype (Cambridge node). Site confirmation and build sequencing in progress with the team (Danny, Dad, and core contributors).
+
+**Grok Integration:** Reasoning loops and Ara voice agents actively being tuned for real-time optimization of vermiponics, biogas, RO, and energy systems.
+
+**Momentum:** Steady progress on simulations, BOM refinement, and documentation. Open for aligned contributors who want to build regenerative abundance.
+
+**Treasury:** Activation path being prepared.
 ![EcoForge Earth-Mars Hero](images/ecoforge-earth-mars-hero.png)  
 **Grok-optimized regenerative systems for Earth abundance & Mars readiness.**  
 Vermiponics + biogas spine + RO + Grok reasoning/voice agents (**Ara** default) + Optimus hooks. Family-scale nodes scaling to multi-node networks.
