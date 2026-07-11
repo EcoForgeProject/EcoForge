@@ -1,83 +1,49 @@
-# EcoForge – Open-Source Closed-Loop AI Homesteads
+# EcoForge for Humanity
+
+**Open-source closed-loop AI homesteads**  
+Grok-optimized • Regenerative • Starship-scalable  
+
+From Earth abundance to Mars readiness.
+
+---
+
+## Vision
+True closed-loop abundance: Waste → Food → Energy → Knowledge.  
+Family-scale nodes that produce their own food, energy, clean water, and compute — monitored and optimized by Grok agents in real time.
+
+**Core Stack**
+- Vermiponics + Biogas spine
+- Reverse Osmosis + Greywater recycling
+- Solar + storage hybrid
+- Grok reasoning + Ara voice agents
+- ESP32 / Home Assistant sensor mesh
+
+---
+
 ## Current Status (July 2026)
 
-**Phase 1 complete** — Blueprint v3 "Supernova" locked with 95–96.5% resource recovery.
+**Phase 1** — Blueprint v3 "Supernova" **Complete**  
+**Phase 2** — Container 1 physical prototype **In Progress**
 
-**Next Focus: Phase 2** — Container 1 physical prototype (Cambridge node). Site confirmation and build sequencing in progress with the team (Danny, Dad, and core contributors).
+**Latest Update:** [progress/2026-07-update.md](progress/2026-07-update.md)
 
-**Grok Integration:** Reasoning loops and Ara voice agents actively being tuned for real-time optimization of vermiponics, biogas, RO, and energy systems.
+**Key Metrics (Sim Validated)**
+- Resource Recovery: **95–96.5%**
+- Vermiponics: NH₃ < 6 ppm
+- RO Efficiency: 0.55 kWh/m³
+- Pilot Output: 400+ lbs/month surplus food (10-person node)
 
-**Momentum:** Steady progress on simulations, BOM refinement, and documentation. Open for aligned contributors who want to build regenerative abundance.
+**Grok Integration:** Reasoning loops and Ara voice agents actively being tuned for real-time system optimization.
 
-**Treasury:** Activation path being prepared.
-![EcoForge Earth-Mars Hero](images/ecoforge-earth-mars-hero.png)  
-**Grok-optimized regenerative systems for Earth abundance & Mars readiness.**  
-Vermiponics + biogas spine + RO + Grok reasoning/voice agents (**Ara** default) + Optimus hooks. Family-scale nodes scaling to multi-node networks.
+---
 
-## ⚠️ IMPORTANT SAFETY & LIABILITY DISCLAIMER
+## Quick Start
 
-**EcoForge designs, simulations, blueprints, code, BOMs, and all materials are provided "AS IS" and "WITH ALL FAULTS" for experimental, educational, and open-source research purposes only.**
-
-Building or operating any EcoForge system (vermiponics, biogas digester, RO unit, solar/Powerwall integration, shipping container mods, sensors, etc.) involves **serious risks** including but not limited to:
-- Fire or explosion (biogas/methane)
-- Electrical shock or arc flash
-- Chemical exposure or burns
-- Biological hazards (pathogens, ammonia)
-- Structural failure
-- Flooding or system leaks
-- Injury or property damage
-
-**You assume 100% of the risk.**  
-We make **no warranties** whatsoever (express or implied) about safety, performance, accuracy of simulations, or fitness for any purpose. Real-world results may differ from sims.
-
-Always:
-- Consult licensed engineers, electricians, plumbers, and local authorities
-- Comply with all building, environmental, electrical, and safety codes
-- Get proper permits and inspections
-- Start small and test safely
-
-**Neither Sean Sestina, EcoForge, contributors, nor any affiliates shall be liable** for any damages, injuries, losses, claims, or liabilities arising from the use of this material.
-
-Prototype and build **at your own risk only**. Not for commercial replication without independent professional review and certification.
-
-Read the full LICENSE (MIT) and CONTRIBUTING.md for additional terms.
-
-## Visual Overview
-
-![EcoForge Closed-Loop Process Flow](images/ecoforge-closed-loop-flow.png)
-
-*Closed-loop nutrient, water & energy flow: Vermiponics → Biogas (anaerobic digestion) → Greywater Recycling → RO (permeate reuse) → Powerwall hybrid solar storage. All loops monitored live (pH, NH₃ <6 ppm, TDS, flux, recovery rate, energy surplus) via Grok/ESP32.*
-
-![Isometric Overview](images/ecoforge-isometric-diagram.png)
-
-*Isometric overview of the full homestead node system*
-
-![Exploded BOM](images/ecoforge-bom-exploded.png)
-
-*Exploded BOM: Vermi crates, RO membranes, biogas digester, sensors, solar/Powerwall*
-
-![Container Cutaway](images/ecoforge-container-cutaway.png)
-
-*Insulated shipping container prototype with vermiponics beds, biogas integration, RO unit, and energy storage layout*
-
-![Scaling Roadmap](images/ecoforge-scaling-roadmap.png)
-
-*Roadmap for multi-node expansion, community rollout, and Mars analog scaling*
-
-**Current Status (March 2026)**  
-- Blueprint v3 "Supernova" locked: 95–96.5% resource recovery, NH₃ <6 ppm, RO 0.55 kWh/m³, 18.8 LMH flux.  
-- API: FastAPI /simulate endpoint (vermiponic + RO ODEs) – live but throttled.  
-- Grok Integration: In progress – API key ready, testing reasoning for sim tuning + realtime voice agents (**Ara** voice locked for warm, conversational agents). Awaiting credits top-up for heavy usage.
-- [Grok-Ara-Integration-Plan.md](/docs/Grok-Ara-Integration-Plan.md)
-- Physical Build: Container 1 prototype queued (Cambridge I-70/I-77 node) – awaiting site confirmation from Dad/Danny.  
-- Team: Core push with Danny (build experience), Bridget (reviewing repo/sims), Sean leading. Open for aligned contributors!  
-- Treasury: Activation pending (X Money/multisig) – $0 current.  
-
-**Vision**  
-True closed-loop abundance: Waste-to-food-to-energy cycles powering homesteads. Grok agents (**Ara** voice) guide ops, explain sims, optimize in realtime. Dual-use Earth/Mars (Starship scalable).  
-Full details: [Complete v1.1 Master Protocol List](complete-v1.1-master-protocol-list.md)
-
-**Key Metrics (v3 Supernova – Targets Achieved in Sims)**  
+```bash
+git clone [https://github.com/SeanSestinaEcoForge/SeanSestinaEcoForge.git](https://github.com/SeanSestinaEcoForge/SeanSestinaEcoForge.git)
+cd SeanSestinaEcoForge
+pip install -r requirements.txt
+python simulations/sim-aquaponics-nutrient-cycle.py
 - Vermiponics: 95–96.5% recovery, NH₃ <6 ppm  
 - RO: 4.5–5.8 ppm permeate, 0.55 kWh/m³  
 - Pilot Scale: 10-person node → 400+ lbs/month surplus food, 30–90 min daily ops  
