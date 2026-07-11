@@ -26,7 +26,11 @@ Family-scale nodes that produce their own food, energy, clean water, and compute
 **Phase 2** — Container 1 physical prototype **In Progress**
 
 **Latest Update:** [progress/2026-07-update.md](progress/2026-07-update.md)
-
+**Key Metrics (v3 Supernova – Sim Validated)**
+- Resource Recovery: **95–96.5%**
+- Vermiponics: NH₃ < 6 ppm
+- RO Efficiency: 0.55 kWh/m³  
+- Pilot Scale: 400+ lbs/month surplus food (10-person node)
 **Key Metrics (Sim Validated)**
 - Resource Recovery: **95–96.5%**
 - Vermiponics: NH₃ < 6 ppm
